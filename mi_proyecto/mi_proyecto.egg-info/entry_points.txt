@@ -1,0 +1,2 @@
+[console_scripts]
+mi_proyecto = cliente.cliente:main
